@@ -1,9 +1,9 @@
-
 import { useState, useEffect } from "react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
-import { Heatmap, Users, AArrowUp, AArrowDown } from "lucide-react";
+import { Users, AArrowUp, AArrowDown } from "lucide-react";
+import { Heatmap } from "@/components/icons/custom-icons";
 
 // Define density levels
 type DensityLevel = 0 | 1 | 2 | 3 | 4;

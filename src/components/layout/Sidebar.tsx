@@ -1,4 +1,3 @@
-
 import {
   Sidebar,
   SidebarContent,
@@ -16,14 +15,13 @@ import {
   ChartBar, 
   Clock, 
   Eye, 
-  Heatmap, 
   Layers, 
   MapPin, 
   Octagon, 
-  Queue, 
   Search, 
   Users 
 } from "lucide-react";
+import { Heatmap, Queue } from "@/components/icons/custom-icons";
 import { useNavigate, useLocation } from "react-router-dom";
 
 // Menu items with their icons and URLs
