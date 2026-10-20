@@ -60,3 +60,8 @@ To connect your own backend, create a Supabase project and update the URL and pu
 ## Editing with Lovable
 
 The project is linked to a [Lovable project](https://lovable.dev/projects/1fbc23d3-ccae-47e0-b372-f2c8a9f6c768). Prompting there pushes changes straight to this repository, and you can also edit the code locally or in GitHub Codespaces.
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
